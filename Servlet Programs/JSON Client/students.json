@@ -1,0 +1,6 @@
+[
+ {"id":1,"name":"Ash","branch":"AI & DS","age":21},
+ {"id":2,"name":"Priya","branch":"CSE","age":22},
+ {"id":3,"name":"Muthu","branch":"IT","age":20},
+ {"id":4,"name":"Anu","branch":"ECE","age":23}
+]
